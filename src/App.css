@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  border: 4px solid green;
+  margin: 20px;
+}
+.imageRow {
+  display: flex;
+  justify-content: space-around;
+}
+.buttonRow {
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+}
+
+.textContent {
+  display: flex;
+  justify-content: space-around;
+}

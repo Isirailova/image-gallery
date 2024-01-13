@@ -1,0 +1,10 @@
+.CustomButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 2px solid green;
+}
